@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am a Computer Science student at Baylor University with a strong interest in Full-Stack Development. Coding has always been my passion and I spend much of my free time purusing it.
+Hey, I am a Software Engineer with a speciality in backend engineering!
 
 
 ## 🌐 Connect With Me:
