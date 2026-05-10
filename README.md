@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm a Software Engineer with a specialty in backend engineering! I do a lot of fun projects on here too on the side!
+Hey, I'm a Software Engineer with a specialty in backend engineering!
 
 
 ## 🌐 Connect With Me:
